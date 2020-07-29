@@ -1,0 +1,6 @@
+To add more textures:
+1. place them in the /images directory
+2. edit /scripts/load-extras.js and add a listing for your new texture.
+
+Recommended to keep texture filesizes small (< 1mb)
+Textures should be power of 2 sizes (128, 512, 1024, etc...)
