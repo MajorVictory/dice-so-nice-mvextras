@@ -3,10 +3,13 @@
 	"title": "Dice So Nice! Extra Textures",
 	"description": "More dice textures for the Dice-So-Nice module for FoundryVtt",
 	"author": "MajorVictory",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"minimumCoreVersion": "0.6.0",
 	"compatibleCoreVersion": "0.6.5",
 	"scripts": [
 		"scripts/load-extras.js"
-	]
+	],
+	"url": "https://github.com/MajorVictory/dice-so-nice-mvextras",
+	"manifest": "https://github.com/MajorVictory/dice-so-nice-mvextras/blob/1.0.1/module.json",
+	"download": "https://github.com/MajorVictory/dice-so-nice-mvextras/releases/download/1.0.1/dice-so-nice-extras.zip"
 }
