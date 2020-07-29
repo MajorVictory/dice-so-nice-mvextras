@@ -13,24 +13,24 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
 	dice3d.addTexture("dragon", {
 	    name: "Dragon Scales",
 	    composite: "multiply",
-	    source: "modules/dice-so-nice-mvextras/images/dragon.png"
+	    source: "modules/dice-so-nice-extras/images/dragon.png"
 	});
 
 	dice3d.addTexture("lizard", {
 	    name: "Lizard Skin",
 	    composite: "multiply",
-	    source: "modules/dice-so-nice-mvextras/images/lizard.png"
+	    source: "modules/dice-so-nice-extras/images/lizard.png"
 	});
 
 	dice3d.addTexture("bird", {
 	    name: "Bird Feathers",
 	    composite: "multiply",
-	    source: "modules/dice-so-nice-mvextras/images/feather.png"
+	    source: "modules/dice-so-nice-extras/images/feather.png"
 	});
 
 	dice3d.addTexture("bronze", {
 	    name: "Bronze",
 	    composite: "difference",
-	    source: "modules/dice-so-nice-mvextras/images/bronze.png"
+	    source: "modules/dice-so-nice-extras/images/bronze.png"
 	});
 });
